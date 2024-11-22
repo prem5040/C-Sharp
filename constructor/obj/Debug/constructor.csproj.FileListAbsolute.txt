@@ -1,0 +1,7 @@
+D:\Programming\C# Programming\constructor\obj\Debug\constructor.csproj.AssemblyReference.cache
+D:\Programming\C# Programming\constructor\obj\Debug\constructor.csproj.CoreCompileInputs.cache
+D:\Programming\C# Programming\constructor\bin\Debug\constructor.exe.config
+D:\Programming\C# Programming\constructor\bin\Debug\constructor.exe
+D:\Programming\C# Programming\constructor\bin\Debug\constructor.pdb
+D:\Programming\C# Programming\constructor\obj\Debug\constructor.exe
+D:\Programming\C# Programming\constructor\obj\Debug\constructor.pdb
