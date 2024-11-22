@@ -1,0 +1,7 @@
+D:\Programming\C# Programming\Fields\Fields\obj\Debug\Fields.csproj.AssemblyReference.cache
+D:\Programming\C# Programming\Fields\Fields\obj\Debug\Fields.csproj.CoreCompileInputs.cache
+D:\Programming\C# Programming\Fields\Fields\bin\Debug\Fields.exe.config
+D:\Programming\C# Programming\Fields\Fields\bin\Debug\Fields.exe
+D:\Programming\C# Programming\Fields\Fields\bin\Debug\Fields.pdb
+D:\Programming\C# Programming\Fields\Fields\obj\Debug\Fields.exe
+D:\Programming\C# Programming\Fields\Fields\obj\Debug\Fields.pdb
